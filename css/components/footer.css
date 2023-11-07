@@ -1,0 +1,17 @@
+.footer{
+  background-color:#2C2B2B ;
+  padding: 20px;
+}
+
+.footer p {
+  color: white;
+  justify-content: center;
+}
+
+.social-btn{
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  font-size: 32px;
+}

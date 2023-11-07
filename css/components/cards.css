@@ -1,0 +1,17 @@
+.cards{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 28px;
+  flex-wrap: wrap;
+}
+.card{
+  width: 250px;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgb(230,230,230);
+  text-align: center;
+  padding: 20px;
+}
+
+.card img{
+  width: 150px;
+}
